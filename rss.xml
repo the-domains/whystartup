@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[whystartup]]></title>
         <description><![CDATA[whystartup]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/whystartup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 00:47:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 00:49:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/whystartup/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Start Your Own Company Before Technology Takes Your Job]]></title>
+            <description><![CDATA[<article><h1>Start Your Own Company Before Technology Takes Your Job</h1><p>I recently toured a factory that designs and makes robots for the manufacturing industry. As my guide proudly demonstrated the smart robots his company was making for a client, I asked him how many employees each robot would replace. He sheepishly replied, "20."</p><img src="https://assets.entrepreneur.com/content/3x2/1300/20160315165809-san-francisco-bay-water-golden-gate-bridge.jpeg"></article>]]></description>
+            <link>https://www.entrepreneur.com/article/272587</link>
+            <guid isPermaLink="false">4fc542f0-c667-4ea1-ae07-27cef27154ac</guid>
+            <pubDate>Thu, 21 Apr 2016 00:48:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 signs you probably shouldn't start up]]></title>
-            <description><![CDATA[<article><h1>7 signs you probably shouldn't start up</h1><p>Who hasn't told themselves at least once (or twice) - "I've got a great idea and it'll be worth millions. It's time to launch my startup." That's good and all, but launching a startup takes far more than a solid idea and a lofty goal.</p><img src="https://cdn.techinasia.com/wp-content/uploads/2016/04/1.png"></article>]]></description>
+            <description><![CDATA[<article><h1>7 signs you probably shouldn't start up</h1><p>Who hasn't told themselves at least once (or twice) - "I've got a great idea and it'll be worth millions. It's time to launch my startup." That's good and all, but launching a startup takes far more than a solid idea and a lofty goal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0af4d185cadfc0f7f840d3b3b008695100493c6f.png"></article>]]></description>
             <link>https://www.techinasia.com/talk/7-signs-that-you-probably-shouldnt-startup</link>
             <guid isPermaLink="false">9655afea-4664-4f33-b5ee-d70428ac2ebe</guid>
             <pubDate>Thu, 21 Apr 2016 00:47:00 GMT</pubDate>
