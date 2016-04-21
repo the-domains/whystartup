@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C0A0A0'
+    - '#401020'
+    - '#408888'
+    - '#A83048'
+    - '#000000'
+  brandStrength: 0.5243451955214019
+  lightness: 0.6851506774418621
+  rhythmicContrast: 0.9831652698092136
+  saturation: 0.8340364357749687
+cta: {}
+layout_spectrum: 0.15256469136424544
+name: whystartup
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.16438718627338011
