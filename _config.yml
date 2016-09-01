@@ -1,20 +1,11 @@
 name: whystartup
-favicon: null
 layout_spectrum: 0.15256469136424544
 typography_spectrum: 0.16438718627338011
-title: WhyStartup?
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#C0A0A0'
@@ -26,7 +17,11 @@ color:
   lightness: 0.6851506774418621
   saturation: 0.8340364357749687
   rhythmicContrast: 0.9831652698092136
-purpose:
-  - name: null
-    item: null
-    url: null
+purpose: []
+title: WhyStartup?
+author:
+  name: WhyStartup
+  url: 'http://whystartup.co'
+  email: whystartup@gmail.com
+content_rating:
+  adult: false
